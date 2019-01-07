@@ -11,6 +11,6 @@ WordGame is written and maintained by vetal045.
 
 # Versions
 
-Test version - 5th May 2018
+Test version - 7th January 2018
 
 
