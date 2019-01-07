@@ -6,7 +6,7 @@ Used technologies: C++, cocos2d-x.
 
 # Author
 
-FileLibrary is written and maintained by vetal045.
+WordGame is written and maintained by vetal045.
 
 
 # Versions
